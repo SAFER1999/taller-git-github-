@@ -1,1 +1,1 @@
-Contenido original base
+Actualización prioritaria desde rama main
