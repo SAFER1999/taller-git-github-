@@ -1,0 +1,19 @@
+PERFIL DEL ESTUDIANTE
+
+Nombre: Safer
+
+Habilidades técnicas:
+- Manejo básico de Git y GitHub.
+- Programación.
+- Desarrollo de proyectos.
+- Manejo de Visual Studio Code.
+- Manejo básico de bases de datos.
+- Desarrollo de aplicaciones web.
+
+Metas y objetivos del curso:
+- Aprender a utilizar Git correctamente.
+- Mejorar mi manejo de GitHub.
+- Aprender a trabajar con ramas.
+- Comprender el funcionamiento de los commits.
+- Aprender a trabajar colaborativamente.
+- Mejorar mis conocimientos en desarrollo de software.
